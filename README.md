@@ -20,7 +20,16 @@ Milestone 3:
 - Live dashboard
 - Data saved to CSV
 
+Milestone 4:
+• Real-time crowd monitoring dashboard  
+• Entry and exit counting system  
+• Unique ID tracking  
+• Zone-wise crowd analysis  
+• CSV data logging  
+• Graph visualization using Matplotlib
+
 Run Commands:
 python milestone1_zone_manager.py
 python milestone2_people_detection.py
 python milestone3_final.py
+python milestone4_crowdcount.py
